@@ -2,7 +2,7 @@
 <hr>
 
 >**Introduction**
-
+ 
 The virtual assistant is a general-purpose desktop-based application software, that understands voice commands and completes tasks or replies to queries said by the user. 
 
 >**Why did i make this project**
